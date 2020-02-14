@@ -1,2 +1,2 @@
-org.springframework.context.ApplicationContextInitializer=top.luyuni.sb2.initializer.FirstInitializer
-org.springframework.context.ApplicationListener=top.luyuni.sb2.listener.FirstListener,top.luyuni.sb2.listener.FourListener
+#org.springframework.context.ApplicationContextInitializer=top.luyuni.sb2.initializer.FirstInitializer
+#org.springframework.context.ApplicationListener=top.luyuni.sb2.listener.FirstListener,top.luyuni.sb2.listener.FourListener
